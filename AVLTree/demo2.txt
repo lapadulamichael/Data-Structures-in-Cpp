@@ -1,0 +1,12 @@
+trace 0 eric PK-4635
+trace 3600 eric SH-2120
+localiser [10,11] eric
+localiser [0,24500] eric
+trace 250 kim PK-4635a
+localiser [250,350] kim
+trace 300 kim PK-4635b
+localiser [250,350] kim
+trace 360 kim PK-4635c
+localiser [250,350] kim
+localiser [250,400] kim
+

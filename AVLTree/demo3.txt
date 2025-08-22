@@ -1,0 +1,30 @@
+trace 0 p1 A
+presences [2,5] A
+trace 1 p2 A
+presences [2,5] A
+trace 2 p3 A
+presences [2,5] A
+trace 3 p4 A
+presences [2,5] A
+trace 3 p5 A
+presences [2,5] A
+trace 3 p5 B
+trace 4 p5 C
+trace 5 p5 D
+trace 3 p6 B
+trace 4 p6 C
+trace 5 p6 D
+presences [0,10] C
+presences [0,10] D
+trace 10 p1 E
+trace 10 p2 E
+trace 10 p3 E
+trace 10 p4 E
+trace 10 p5 E
+trace 10 p6 E
+presences [11,20] A
+presences [11,20] B
+presences [11,20] C
+presences [11,20] D
+presences [11,20] E
+

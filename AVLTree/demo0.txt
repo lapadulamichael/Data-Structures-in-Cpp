@@ -1,0 +1,17 @@
+trace 0 eric PK-4635
+trace 3600 eric SH-2120
+localiser [10,11] eric
+localiser [0,24500] eric
+trace 3650 eric SH-2120
+trace 7200 eric SH-2120
+trace 18000 eric ?
+presences [0,18000] PK-4635
+frequentations [0, 2200] eric
+trace 1800 kim PK-4635
+trace 2100 kim PK-4635
+presences [0,18000] PK-4635
+trace 2800 kim ?
+trace 24000 eric PK-4115
+trace 24500 eric ?
+frequentations [0, 2200] eric
+duree_rencontres [0,36000] eric kim
